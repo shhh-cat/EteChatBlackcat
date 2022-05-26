@@ -1,5 +1,5 @@
 # EteChatBlackcat
-End to End Chat Web Application
+RSA Chat Web Application
 
 Clone Project
 ```
